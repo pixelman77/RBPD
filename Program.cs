@@ -322,6 +322,7 @@ public class Master
 {
     public bool botMoved = false;
     public int searchDepth = 8;
+    //most scores completely unused!
     public int botCrossArmScore = 0;
     public int botXArmScore = 0;
     public int botCornerScore = 0;
